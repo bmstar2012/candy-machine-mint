@@ -1,0 +1,30 @@
+{
+  "program": {
+    "uuid": "EgzskE",
+    "config": "EgzskE78xAMhFhuupJoYrLZaVwZ4Vr3bD7tjcsnE3jK5",
+    "candy machine pubkey": "4y91e3mCk8F6KDmKUZTyB2BWsHpHa3zSyLTP28BvweWr"
+  },
+  "items": {
+    "0": {
+      "link": "https://arweave.net/X6pfAojiB_9Jc3vIvaAtQB2LMoMfvm0BqmR881WAmIQ",
+      "imageLink": "https://arweave.net/h7a7DCyzA19oq9SL3TVVPb2l9td1J0P84bOejkXKdiA?ext=png",
+      "name": "11",
+      "onChain": true
+    },
+    "1": {
+      "link": "https://arweave.net/DH5UlZedtM8MEcjndE9RQ2Zsk4O36r9IQqK2AVfRbj0",
+      "imageLink": "https://arweave.net/45CAf7mjJgIyc3rEh4SwaC_4KLk07S1Zu54mDQ1DExY?ext=png",
+      "name": "22",
+      "onChain": true
+    },
+    "2": {
+      "link": "https://arweave.net/zRHzQC0UoTnAMD9WDXBqKr12RZd7fATEoZpPYaCJ8DY",
+      "imageLink": "https://arweave.net/r6ou3TNN__XfwZ2ywLQ81vub974Omeysu57S6JlxRY0?ext=png",
+      "name": "33",
+      "onChain": true
+    }
+  },
+  "env": "devnet",
+  "cacheName": "temp",
+  "authority": "3kcBCxCeR5RXzEnsuXQk1nBXUM6w4RoJLrcHG8N1KePR"
+}
